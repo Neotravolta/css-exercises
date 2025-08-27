@@ -1,0 +1,19 @@
+.cooler {
+    background-color: rgb(238, 149, 190);
+    font-family: Verdana; "DejaVu Sans"; sans-serif; 
+  }
+
+.adjust-font-size{
+    font-size: 24px;
+  }
+
+  #kid{
+    color: #0000ff;
+    font-size: 36px;
+  }
+
+  #man{
+    background-color: #0cc83b;
+    font-size: 24px;
+    font-weight: bold;
+  }
